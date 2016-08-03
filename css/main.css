@@ -1,0 +1,135 @@
+/* Inserta tu codigo aqui */
+li{
+	display: inline-block;
+	color:black;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-right: 1px solid black;
+}
+
+.espacio{
+	padding-right: 5%;
+	margin-top:3%;
+}
+.borde{
+	border:1px solid white;
+}
+.fondo1{
+	background-image: url("../img/fondo2.jpg");
+	background-size: cover;
+	height: 200px;
+	padding:5%;
+}
+.fondo2{
+	background-image: url("../img/semilla.jpg");
+	background-position: center;
+	height: 300px;
+}
+.fondo3{
+	background-image: url("../img/fondo.jpg");
+	background-size:cover; 
+	height: 413px;
+}
+.fondo4{
+	background-image: url("../img/metodo.jpg");
+	background-size:cover; 
+	height: 413px;
+}
+.fondo5{
+	background-color: #38610B;
+	height: 900px;
+}
+.fondo6{
+	background-image: url("../img/fondo2.jpg");
+	background-size: cover;
+	height: 500px;
+	padding:5%;
+}
+.fondo7{
+	background-color: gray;
+	height: 240px;
+}
+.text-center{
+	text-align: center;
+}
+.ancho{
+	width: 100%
+}
+.tama{
+	width: 100px;
+	height: 100px;
+}
+.tama2{
+	width: 100%;
+	height: 100%;
+}
+.tama3{
+	width: 60px;
+	height: 60px;
+}
+.tama4{
+	width: 250px;
+	height: 200px;
+}
+.round-img{
+	width: 50%;
+	height: 50%;
+	border-radius: 50%;
+}
+a:hover{
+	background-color: gray;
+}
+.obj-center{
+	display: block;
+	margin:0 auto;
+}
+.pdt-5{
+	padding-top: 5%;
+}
+.pdt-2{
+	padding-top: 2%;
+}
+.pdt-50{
+	padding-top: 150px;
+}
+.pd-2{
+	padding:2%;
+}
+.pdb-5{
+	padding-bottom: 5%;
+}
+.pdb-3{
+	padding-bottom: 3%;
+}
+.pdb{
+	padding-bottom: 35%;
+
+h4{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.mitad-img{
+	width: 100%;
+}
+.text-color{
+	color:white;
+}
+.align-left{
+	text-align: left;
+}
+a{
+	text-decoration: none;
+}
+.con{
+	color:yellow;
+	height: 300px;
+	padding-top: 150px;
+}
+span{
+	color:black;
+}
